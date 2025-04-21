@@ -1,2 +1,2 @@
-# GIgx-Data-Analytics
+# Gigx-Data-Analytics
  
